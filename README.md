@@ -6,7 +6,7 @@ reform military hospital sanitation, making it one of the most influential data
 visualizations in history.
 
 ## Chart Preview
-![Nightingale Coxcomb Chart](Replicated_Nightingale_Coxcomb_Chart.png)
+![Nightingale Coxcomb Chart](Replicated%20Nightingale%20Coxcomb%20Chart.png)
 ```
 
 ## Project Overview
