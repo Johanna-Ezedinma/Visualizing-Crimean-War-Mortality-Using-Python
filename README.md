@@ -26,7 +26,7 @@ polar area chart to tell that same story using modern Python tools.
 - raw_night_1855_1856.xlsx — monthly death counts from April 1855 to March 1856
 
 Each dataset contains:
-- -Month
+- Month
 - Average Army Size
 - Disease Deaths
 - Wounds
