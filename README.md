@@ -5,6 +5,12 @@ Nightingale used this visualization in 1858 to convince the British government t
 reform military hospital sanitation, making it one of the most influential data 
 visualizations in history.
 
+## Chart Preview
+![Nightingale Coxcomb Chart](nightingale_coxcomb.png)
+```
+
+---
+
 ## Project Overview
 
 Florence Nightingale collected data on causes of death among soldiers during the 
