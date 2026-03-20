@@ -7,7 +7,6 @@ visualizations in history.
 
 ## Chart Preview
 ![Nightingale Coxcomb Chart](Replicated%20Nightingale%20Coxcomb%20Chart.png)
-```
 
 ## Project Overview
 
