@@ -59,7 +59,7 @@ disease on British soldiers.
 
 ## 📸 Chart Preview
 
-![Nightingale Coxcomb Chart](Replicated%20Nightingale%20Coxcomb%20Chart.png)
+![Nightingale Coxcomb Chart](Nightingale%20Coxcomb%20Chart.png)
 
 ---
 
